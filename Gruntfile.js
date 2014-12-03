@@ -9,7 +9,7 @@ module.exports = function(grunt) {
       default: {
         options: {},
         files: {
-          'build/build.html': 'index.html'
+          'index.html': 'spa-with-imported-template-demo.html'
         },
       },
     },
