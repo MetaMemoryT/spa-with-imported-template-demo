@@ -13,3 +13,10 @@ Retain the advantages of a SPA (no page reloads), while organizing application f
 - navigation with keys
 - page logic in separate files
 - No need for compilation while developing
+
+bower_components/webcomponentsjs/webcomponents.min.js
+
+bower_components/polymer/polymer.js
+bower_components/core-focusable/polymer-mixin.js
+bower_components/core-focusable/core-focusable.js
+bower_components/flatiron-director/director/director.min.js
