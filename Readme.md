@@ -1,4 +1,4 @@
-A demonstration of a [SPA](http://en.wikipedia.org/wiki/Single-page_application) with page logic imported from template files.
+A demonstration of a Polymer [SPA](http://en.wikipedia.org/wiki/Single-page_application) with page logic imported from template files.
 
 [Live Demo](https://MetaMemoryT.github.io/spa-with-imported-template-demo)
 
