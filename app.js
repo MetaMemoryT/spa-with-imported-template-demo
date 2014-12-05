@@ -7,7 +7,7 @@
 
   template.pages = [{
     name: 'Page One',
-    hash: 'one'
+    hash: 'one/a/restful/url'
   }, {
     name: 'Page Two',
     hash: 'two'
